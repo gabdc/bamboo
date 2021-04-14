@@ -1,22 +1,3 @@
-<!doctype html>
-<html lang="en">
-
-    <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <title>BAMBOO WEBSITE</title>
-
-    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-    <link rel="icon" href="favicon.ico" type="image/x-icon">
-
-    <link rel="stylesheet" href="styles/tailwind.css">
-
-
-    </head>
-
-<body>
-
 <x-guest-layout>
     <div class="relative w-screen h-screen bg-no-repeat bg-cover sm:bg-left-bottom" style="background-image: url('connect.png');">
         <div class="absolute flex flex-col items-start justify-center w-full h-full">
